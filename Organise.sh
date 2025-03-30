@@ -1,4 +1,3 @@
-#!/bin/bash
 
 DOWNLOADS_DIR="$HOME/Downloads"
 
